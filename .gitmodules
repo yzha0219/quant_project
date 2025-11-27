@@ -1,0 +1,6 @@
+[submodule "quant_frontend"]
+	path = quant_frontend
+	url = git@github.com:yzha0219/quant_frontend.git
+[submodule "quant_backend"]
+	path = quant_backend
+	url = git@github.com:yzha0219/quant_backend.git
